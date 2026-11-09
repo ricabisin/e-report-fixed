@@ -562,12 +562,7 @@ textarea {
     border: 0;
 }
 
-
-/* ========================================
-   STATUS BADGE
-   ======================================== */
-
-/* Bentuk dasar label status */
+/* status badge */
 .status-badge {
     display: inline-block;
     padding: 6px 12px;
